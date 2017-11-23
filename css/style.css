@@ -5,6 +5,7 @@ body {
   font-family: 'Roboto+Slab', 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 }
 .nav-shadow {
+  background-color: #b4009f;
   opacity: 0.9 ;
   box-shadow: 0px 0px 15px gray
 }
